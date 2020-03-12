@@ -11,4 +11,9 @@ As time passes, I will keep on adding images one by one.
 
 ## Animated gifs
 
-I started with animated gifs. I upload the GIF as well as SVG- und XCF-Files
+I started with animated gifs. I upload the GIF as well as SVG- and XCF-Files. Using GIMP you can easily set the speed of the animation or the size.
+
+![](Gif-Animations/loader/loader.gif)
+![](Gif-Animations/loader2/loader.gif)
+
+![](Gif-Animations/star/star_blue.gif)
