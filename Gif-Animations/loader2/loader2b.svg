@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg44"
+   sodipodi:docname="loader2b.svg"
+   inkscape:export-filename="/home/gero/Dokumente/Gif-Animations/loader2/loader12.png"
+   inkscape:export-xdpi="14.538721"
+   inkscape:export-ydpi="14.538721"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <defs
+     id="defs38" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="408.01923"
+     inkscape:cy="456.65926"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:snap-grids="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-to-guides="false"
+     inkscape:snap-global="false"
+     inkscape:window-width="1853"
+     inkscape:window-height="1016"
+     inkscape:window-x="67"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid46" />
+    <sodipodi:guide
+       position="177.73424,121.60764"
+       orientation="0,1"
+       id="guide50"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="101.82969,121.60764"
+       orientation="1,0"
+       id="guide52"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="80.448126,100.22608"
+       orientation="-0.70710678,0.70710678"
+       id="guide54"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="138.98015,84.724443"
+       orientation="0.70710678,0.70710678"
+       id="guide56"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata41">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g194"
+       transform="translate(-8.119818e-6,-9.1847943e-6)">
+      <rect
+         y="101.3587"
+         x="94.613411"
+         height="51.048477"
+         width="14.165285"
+         id="rect58"
+         style="fill:#808080;stroke:#808080;stroke-width:0.26458332" />
+      <rect
+         y="199.84752"
+         x="95.014313"
+         height="51.048477"
+         width="14.165285"
+         id="rect58-3"
+         style="fill:#e6e6e6;stroke:#e6e6e6;stroke-width:0.26458332" />
+      <rect
+         transform="rotate(90.312393)"
+         y="-79.131836"
+         x="168.02003"
+         height="51.048477"
+         width="14.165285"
+         id="rect58-6"
+         style="fill:none;stroke:none;stroke-width:0.26458332" />
+      <rect
+         transform="rotate(44.526738)"
+         y="-20.453804"
+         x="189.47475"
+         height="51.048477"
+         width="14.165285"
+         id="rect58-6-5"
+         style="fill:#999999;stroke:#999999;stroke-width:0.26458332" />
+      <rect
+         transform="rotate(44.526738)"
+         y="78.000961"
+         x="188.0945"
+         height="51.048477"
+         width="14.165285"
+         id="rect58-6-5-3"
+         style="fill:#f2f2f2;stroke:#f2f2f2;stroke-width:0.26458332" />
+      <rect
+         transform="rotate(90.312393)"
+         y="-178.28735"
+         x="167.47942"
+         height="51.048477"
+         width="14.165285"
+         id="rect58-6-56"
+         style="fill:#b3b3b3;stroke:#b3b3b3;stroke-width:0.26458332" />
+      <rect
+         transform="rotate(134.45236)"
+         y="-172.47055"
+         x="46.907974"
+         height="51.048477"
+         width="14.165285"
+         id="rect58-6-2"
+         style="fill:none;stroke:none;stroke-width:0.26458332" />
+      <rect
+         transform="rotate(134.45236)"
+         y="-270.9343"
+         x="47.282131"
+         height="51.048477"
+         width="14.165285"
+         id="rect58-6-2-9"
+         style="fill:#cccccc;stroke:#cccccc;stroke-width:0.26458332" />
+    </g>
+  </g>
+</svg>
