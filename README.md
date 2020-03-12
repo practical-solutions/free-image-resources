@@ -15,6 +15,7 @@ I started with animated gifs. I upload the GIF as well as SVG- and XCF-Files. Us
 
 ![](Gif-Animations/loader/loader.gif)
 ![](Gif-Animations/loader2/loader.gif)
+![](Gif-Animations/loader_arrow/loader_arrow_small.gif)
 
 ![](Gif-Animations/star/star_blue.gif)
 ![](Gif-Animations/2circles/2circles1.gif)
