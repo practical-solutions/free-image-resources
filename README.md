@@ -17,3 +17,12 @@ I started with animated gifs. I upload the GIF as well as SVG- and XCF-Files. Us
 ![](Gif-Animations/loader2/loader.gif)
 
 ![](Gif-Animations/star/star_blue.gif)
+
+## Some more free resources
+
+Completely free to use:
+* https://github.com/icons8/flat-color-icons (MIT License)
+* File Type Icons: https://github.com/redbooth/free-file-icons (MIT License)
+* https://github.com/iconic/open-iconic/tree/master/png (Icons under MIT License)
+* Monochrome medical icons: https://github.com/samcome/webfont-medical-icons (MIT License)
+* https://github.com/apancik/public-domain-icons (Public domain)
